@@ -56,6 +56,7 @@ h3 {
 
 .box-model {
   padding: 5px;
+  margin: 10%;
   /* parent element? Habe keine ahnung was diese aufgabe heissen soll. 
   Stelle im Abschnitt "_Box Model_" sicher, dass die margin des Abschnittselements, das einen Absatz und ein Bild enthält, 10 % der Breite des übergeordneten Elements beträgt.*/
 }
