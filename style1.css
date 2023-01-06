@@ -1,5 +1,5 @@
 * {
- box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -21,46 +21,45 @@ h1 {
 }
 
 .zwei {
-    color: blue;
+  color: blue;
 }
 
 .image {
-    display: flex;
+  display: flex;
 }
 
 h3 {
-text-transform: uppercase;
-font-size: 2em;
-color: rgb(238, 155, 0);
+  text-transform: uppercase;
+  font-size: 2em;
+  color: rgb(238, 155, 0);
 }
 
 .one a:visited {
-color: green;
+  color: green;
 }
 .one a:hover {
-    color: red;
-    }
+  color: red;
+}
 .two a:visited {
-    color: green;
-    }
-    .two a:hover {
-        color: red;
-        }
+  color: green;
+}
+.two a:hover {
+  color: red;
+}
 .three a:visited {
-        color: green;
-        }
-        .three a:hover {
-            color: red;
-            }
+  color: green;
+}
+.three a:hover {
+  color: red;
+}
 /* did visited really work?  */
 
 .box-model {
-    padding: 5px;
-    /* parent element? Habe keine ahnung was diese aufgabe heissen soll. 
- Stelle im Abschnitt "_Box Model_" sicher, dass die margin des Abschnittselements, das einen Absatz und ein Bild enthält, 10 % der Breite des übergeordneten Elements beträgt.*/
+  padding: 5px;
+  /* parent element? Habe keine ahnung was diese aufgabe heissen soll. 
+  Stelle im Abschnitt "_Box Model_" sicher, dass die margin des Abschnittselements, das einen Absatz und ein Bild enthält, 10 % der Breite des übergeordneten Elements beträgt.*/
 }
-.tree img
-{
-    border-radius: 50%;
-    /* wieso wird es oval und nicht rund */
+.tree img {
+  border-radius: 50%;
+  /* wieso wird es oval und nicht rund */
 }
