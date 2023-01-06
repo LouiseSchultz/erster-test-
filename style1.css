@@ -1,0 +1,58 @@
+* {
+ box-sizing: border-box;
+}
+
+
+h1 {
+    width: 100%;
+    height: 60px;
+    background-color: aqua;
+    position: fixed;
+    top: 10px;
+    margin: 0;
+    /* top color ? fixed position?*/
+}
+
+.zwei {
+    color: blue;
+}
+
+.image {
+    display: flex;
+}
+
+h3 {
+text-transform: uppercase;
+font-size: 2em;
+color: rgb(238, 155, 0);
+}
+
+.one a:visited {
+color: green;
+}
+.one a:hover {
+    color: red;
+    }
+.two a:visited {
+    color: green;
+    }
+    .two a:hover {
+        color: red;
+        }
+.three a:visited {
+        color: green;
+        }
+        .three a:hover {
+            color: red;
+            }
+/* did visited really work?  */
+
+.box-model {
+    padding: 5px;
+    /* parent element?  */
+}
+.tree img
+{
+    border-radius: 50%;
+    /* porque oval och inte rund? */
+}
