@@ -61,5 +61,8 @@ h3 {
 }
 .tree img {
   border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: auto;
   /* wieso wird es oval und nicht rund */
 }
