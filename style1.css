@@ -10,7 +10,7 @@ h1 {
     position: fixed;
     top: 10px;
     margin: 0;
-    /* top color ? fixed position?*/
+    /* die farbe soll ganz bedeckt werden. also ganz oben auch. Ausserdem sieht der fixed position falsch aus, soll nicht list selecion bedecken*/
 }
 
 .zwei {
@@ -49,10 +49,11 @@ color: green;
 
 .box-model {
     padding: 5px;
-    /* parent element?  */
+    /* parent element? Habe keine ahnung was diese aufgabe heissen soll. 
+ Stelle im Abschnitt "_Box Model_" sicher, dass die margin des Abschnittselements, das einen Absatz und ein Bild enthält, 10 % der Breite des übergeordneten Elements beträgt.*/
 }
 .tree img
 {
     border-radius: 50%;
-    /* porque oval och inte rund? */
+    /* wieso wird es oval und nicht rund */
 }
