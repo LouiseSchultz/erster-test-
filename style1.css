@@ -7,14 +7,17 @@ body {
   margin: 0;
 }
 
+header {
+  position: sticky;
+  top: 0px;
+}
+
 h1 {
-    width: 100%;
-    height: 60px;
-    background-color: aqua;
-    position: fixed;
-    top: 10px;
-    margin: 0;
-    /* die farbe soll ganz bedeckt werden. also ganz oben auch. Ausserdem sieht der fixed position falsch aus, soll nicht list selecion bedecken*/
+  width: 100%;
+  height: 60px;
+  background-color: aqua;
+  margin: 0;
+  /* die farbe soll ganz bedeckt werden. also ganz oben auch. Ausserdem sieht der fixed position falsch aus, soll nicht list selecion bedecken*/
 }
 
 .zwei {
